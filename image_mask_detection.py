@@ -7,6 +7,7 @@ from keras.layers import *
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from keras.applications import ResNet50
 import os
+import cv2
 
 ### Organizing classes into training, validation, and test
 # print("Organizing datasets")
