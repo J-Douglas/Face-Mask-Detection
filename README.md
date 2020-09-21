@@ -1,12 +1,12 @@
 # Face-Mask-Detection
 
-# Motivation
+## Motivation
 
-# Dataset
+## Dataset
 
-# Results
+## Results
 
 ![](mask-detection-demo.gif)
 
-# Installation
+## Installation
 
