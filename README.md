@@ -1,5 +1,5 @@
 # Face-Mask-Detection
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 COVID-19 has made wearing face masks a part of everyone's daily lives. Making sure the people wear masks inside stores and public spaces has become a priority. As well, being able to determine if someone is wearing a mask is important for contact tracing and the transmission of COVID. This was the motivation to create a face mask detection model that can detect face masks in real-time. For this project, I coded in Python in a Jupyter Notebook and used TensorFlow, Keras, NumPy, and OpenCV.
 
