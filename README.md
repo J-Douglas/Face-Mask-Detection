@@ -15,9 +15,8 @@ The dataset can be downloaded [here](https://drive.google.com/drive/folders/1XDt
 
 ## Results
 
-The mask detection classifier reached **97% accuracy**.
+The mask detection classifier reached **97% accuracy**. The notebook can be run to replicate this demo and the results.
 
 ![](mask-detection-demo.gif)
 
-## Installation
 
